@@ -1,8 +1,8 @@
 ;;; ert-buffer-report.el --- Extensions for ert-buffer.el
 
 ;; Author: Thorsten Jolitz <tjolitz AT gmail DOT com>
-;; Version: 1.0
-;; URL: https://github.com/tj64/outorg
+;; Version: 0.9
+;; URL: https://github.com/tj64/ert-buffer-report
 
 ;;;; MetaData
 ;;   :PROPERTIES:
